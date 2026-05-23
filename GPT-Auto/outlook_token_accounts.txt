@@ -1,0 +1,4 @@
+# Outlook 账号文件（Graph API 模式）
+# 格式: 邮箱----密码----client_id----refresh_token
+# 每行一个账号
+xafrlpdiwlxq@outlook.com----sydkbqgrv8----9e5f94bc-e8a4-4e73-b8be-63364c29d753----M.C513_BAY.0.U.-CmP8QJ71ZrEWkraTgSTjC8OcRX9bmyZ9cDG70Ip!8EAsTGipdfwm5bKw*iUmBBTVcetvopoVFhLcM2peiuaEKP91GCbEvEJCJtl0R*97qaN6HZDb0BfDt5BhraAsWmZsAa0vKSZll97M2c!r!akDKI!bOO7OzEhx52BxJj6iSaMd!fjSIuotOsG2Dq8h5nKLeFigzyxjLozuNLU5COyAaRCE13GhpgdpFWwDZJALE8D9vj5eGnq0xnFq*hzliqQ7dPcRR9lbWJHxb8C1f58leBLPS!Vi48FDnaLF8ul33NMmU8vs97*PziMRYdDWWpzNfH4tEkMmddC!za2RCL2eThqx8tjn4!HP9FbLOsgN*5WCED1AEaVZvr8H40aLRsyWdN6NT*hBltJgKvT7Ms!YlDTrLJxDrIiC4MQ3mU2hrK0QrGxwI2u4vC5m0nmINAvvBQ$$

@@ -1,0 +1,37 @@
+{
+  "roxy_api_token": "3e5580bfd1ee1c48c89b8556936db8a8",
+  "roxy_base_url": "http://127.0.0.1:50000",
+  "roxy_profile_id": "917b84a7db92824e9c8224a1947356fc",
+  "gmail": {
+    "email": "304myhopelife@gmail.com",
+    "app_password": "dqji awol hdty tkqd"
+  },
+  "domain": "hunt91.xyz",
+  "files": {
+    "cardmi": "cardmi.txt",
+    "phone": "phone.txt",
+    "accounts": "accounts.txt",
+    "state": "state.json",
+    "outlook_accounts": "outlook_accounts.txt"
+  },
+  "delays": {
+    "min_action": 1.5,
+    "max_action": 4.8,
+    "between_accounts_min": 600,
+    "between_accounts_max": 1800
+  },
+  "max_retries": 3,
+  "email_provider": "outlook_manual",
+  "verification_code_bridge": {
+    "mode": "outlook_graph",
+    "file": "codes.json",
+    "url": "http://127.0.0.1:8787/code",
+    "poll_interval": 3,
+    "consume": true
+  },
+  "outlook_graph": {
+    "accounts_file": "outlook_token_accounts.txt",
+    "since_minutes": 5,
+    "sender_filter": ""
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "roxy_base_url": "http://127.0.0.1:50000",
+  "roxy_profile_id": "917b84a7db92824e9c8224a1947356fc",
+
+  "gmail": {
+    "email": "304myhopelife@gmail.com",
+    "app_password": ""
+  },
+
+  "domain": "hunt91.xyz",
+
+  "files": {
+    "accounts": "accounts.txt"
+  },
+
+  "delays": {
+    "min_action": 1.5,
+    "max_action": 4.8
+  }
+}

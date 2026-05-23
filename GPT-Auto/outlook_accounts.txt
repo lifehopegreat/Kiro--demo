@@ -1,0 +1,3 @@
+# One Outlook/Hotmail email per line. Format email----password is accepted, but password is ignored.
+# user1@outlook.com
+# user2@hotmail.com

@@ -1,0 +1,6 @@
+{
+  "user1@outlook.com": "123456",
+  "user2@hotmail.com": {
+    "code": "654321"
+  }
+}
